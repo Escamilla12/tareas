@@ -1,3 +1,3 @@
 # tareas
 seleccion de tareas 
-otra tarea mas
+otra tarea mas entregada 
